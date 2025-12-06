@@ -1,0 +1,25 @@
+# Web Mac OS Clone
+
+- [x] Project Setup
+    - [x] Initialize Vite + React project <!-- id: 0 -->
+    - [x] Setup basic folder structure and CSS variables for macOS theme <!-- id: 1 -->
+- [/] Core System Architecture
+    - [x] Implement Zustand Store for Window Management <!-- id: 2 -->
+    - [x] Create `Window` component (draggable, resizable, controls) <!-- id: 3 -->
+- [x] System UI Components
+    - [x] Login Screen (User selection, password simulation, blur effects) <!-- id: 4 -->
+    - [x] Desktop Environment (Wallpaper, Context Menu) <!-- id: 5 -->
+    - [x] Menu Bar (Clock, Apple menu, Status icons) <!-- id: 6 -->
+    - [x] Dock (Bouncing animation, Tooltips) <!-- id: 7 -->
+- [x] Applications
+    - [x] Finder (File system simulation, navigation) <!-- id: 8 -->
+    - [x] Calculator (Functional macOS style calculator) <!-- id: 9 -->
+    - [x] Notepad (Rich text or simple text editing, local storage) <!-- id: 10 -->
+    - [x] Solitaire (Card game logic and UI) <!-- id: 11 -->
+    - [x] Chinese Chess (Xiangqi logic and UI) <!-- id: 12 -->
+- [x] Polish & Integration
+    - [x] Boot animation <!-- id: 13 -->
+    - [ ] Sound effects (optional) <!-- id: 14 -->
+    - [x] Responsive adjustments (mobile warning or adaptation) <!-- id: 15 -->
+- [ ] Deployment
+    - [ ] Upload to GitHub <!-- id: 16 -->
